@@ -1,0 +1,21 @@
+﻿  app_window.cpp
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(6): warning C4081: expected 'newline'; found '.'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(58): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(68): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(444): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(465): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(582): warning C4018: '<': signed/unsigned mismatch
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(658): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(667): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(672): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(677): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(687): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(693): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(705): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(713): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\majok\desktop\project 2\glutapp3dsuperquadric\app_window.cpp(725): warning C4305: 'argument': truncation from 'double' to 'float'
+  glutapp3d.vcxproj -> C:\Users\majok\Desktop\Project 2\glutapp3dSuperquadric\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+  glutapp3d.vcxproj -> obj\glutapp3d_Debug\glutapp3d.pdb (Full PDB)
